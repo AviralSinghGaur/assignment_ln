@@ -1,0 +1,11 @@
+{
+  "name": "assignment1",
+  "version": "1.0.0",
+  "description": "<<<<<<< HEAD\r # Portfolio\r =======\r # Assignment1\r self portfolio as an assignment \r >>>>>>> 2ea6a7d (Initial commit)",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
